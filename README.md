@@ -3,14 +3,14 @@
 This repository contains a basic Flask application with a simple project structure.
 
 ## Project Structure
-
+##
 flask_app/
 │
 ├── templates/
 │ └── index.html
 ├── app.py
 └── requirements.txt
-
+##
 
 ### Description
 
